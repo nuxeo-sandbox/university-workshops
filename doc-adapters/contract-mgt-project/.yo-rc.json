@@ -1,0 +1,10 @@
+{
+  "generator-nuxeo": {
+    "promptValues": {
+      "parent_package": "com.bigcorp.contractmgt",
+      "package": "com.bigcorp.contractmgt",
+      "parent_artifact": "contract-mgt-project-parent"
+    },
+    "multi": true
+  }
+}
