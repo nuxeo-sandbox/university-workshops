@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="com.bigcorp.contractmgt.contract-service">
+<service><provide interface="com.bigcorp.contractmgt.ContractService" /></service>
+<implementation class="com.bigcorp.contractmgt.ContractServiceImpl"/>
+</component>
