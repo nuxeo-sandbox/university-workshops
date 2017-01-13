@@ -4,5 +4,4 @@
 		<provide interface="com.bigcorp.contractmgt.ContractService" />
 	</service>
 	<implementation class="com.bigcorp.contractmgt.ContractServiceImpl" />
-	<extension-point name="retention"><object class="com.bigcorp.contractmgt.RetentionPolicyDescriptor"/></extension-point>
 </component>
