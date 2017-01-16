@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.bigcorp.contractmgt.contract-mgt-project-core
+ ;singleton=true
+Bundle-Version: 1.0.0
+Bundle-Name: contract-mgt-project-core
+Bundle-ClassPath: .
+Bundle-ActivationPolicy: lazy
+Bundle-ManifestVersion: 2
+Bundle-Vendor: com.bigcorp.contractmgt
+Nuxeo-Component: OSGI-INF/contract-updater-operation-contrib.xml,OSGI-,
+ OSGI-INF/contract-service-service.xml
+ INF/com.bigcorp.contractmgt.contract-service.xml
+

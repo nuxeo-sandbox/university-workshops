@@ -7,5 +7,4 @@ Bundle-ClassPath: .
 Bundle-ActivationPolicy: lazy
 Bundle-ManifestVersion: 2
 Bundle-Vendor: com.bigcorp.contractmgt
-Nuxeo-Component: OSGI-INF/com.bigcorp.contractmgt.contract-service.xml
 
